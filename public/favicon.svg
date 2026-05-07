@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="brandGradient" x1="39" y1="39" x2="217" y2="217" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f7c66c"/>
+      <stop offset="1" stop-color="#f67e4b"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="220" height="220" rx="70" fill="url(#brandGradient)"/>
+  <text x="128" y="151" fill="#161720" font-family="Segoe UI Black, Arial Black, sans-serif" font-size="82" font-weight="900" text-anchor="middle">MP</text>
+</svg>
